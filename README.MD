@@ -1,6 +1,12 @@
 # Documentation
 
-## Get started
+## Mise en place
+
+### GitHub
+
+- Cloner le repo
+
+### Se placer dans le repo
 
 - Lancer la commande ``npm install`` qui installe les nodes-modules
 - Lancer la commande ``npm run dev`` qui va lancer le serveur
